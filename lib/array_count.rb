@@ -3,6 +3,7 @@ def count_strings(array)
    array.count do 
     if array[row_index] == String
       return True 
+    end
 end
 end 
 
