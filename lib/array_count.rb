@@ -8,7 +8,7 @@ def count_strings(array)
 end
   row_index += 1 
 end
-total
+count_strings
 end 
 
 def count_empty_strings(array)
